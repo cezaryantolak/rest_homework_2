@@ -1,0 +1,19 @@
+activeEnvironmentName: test1
+
+environments:
+  test1:
+    envName: test1
+    url: https://samples.openweathermap.org/data/2.5/weather
+    token: b1b15e88fa797225412429c1c50c122a1
+    q: q
+    city: London,uk
+    cityName: London
+    countryCode: GB
+    minimumTemperature: 279.15
+    minimumTemperaturePath: main.temp_min
+    weatherDescription: light intensity drizzle
+    weatherDescriptionPath: weather.description[0]
+    name: Czarek
+    age: 32
+    responseTime: 5000
+    successResponseCode: 200
