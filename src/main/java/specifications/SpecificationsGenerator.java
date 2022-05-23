@@ -1,6 +1,6 @@
 package specifications;
 
-import helper.HelpfulMethods;
+import helpers.HelpfulMethods;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.specification.ResponseSpecification;
